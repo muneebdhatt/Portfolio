@@ -1,0 +1,11 @@
+.my_img{
+    width: 350px;
+    height: 350px;
+}
+
+.about_me{
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    padding-bottom: 0px;
+}
